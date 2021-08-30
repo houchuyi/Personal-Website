@@ -2,7 +2,7 @@
 layout: page
 title: Deep Learning Food Recognition Model
 description: Artificial Intelligence Fundamentals Course Project 2019
-img: /assets/img/APS360/5.jpg
+img: /assets/img/APS360/5.PNG
 importance: 2
 category: work
 ---
@@ -16,7 +16,7 @@ The machine learning model we used was Faster R-CNN (ResNet based).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/3.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/3.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ The machine learning model we used was Faster R-CNN (ResNet based).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/4.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/4.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -34,10 +34,10 @@ The machine learning model we used was Faster R-CNN (ResNet based).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/1.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/1.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/2.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/APS360/2.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
