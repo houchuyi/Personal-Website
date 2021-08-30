@@ -9,7 +9,8 @@ category: work
 
 University of Toronto
 APS360: Artificial Intelligence Fundamentals Course Project 2019
-[Github repo:](https://github.com/thomas-enxuli/Deep-Learning-Food-Detection-Model){:target="\_blank"} 
+
+[Github repo](https://github.com/thomas-enxuli/Deep-Learning-Food-Detection-Model){:target="\_blank"} 
 
 We, as a team of three, aimed to create a module that would identify food categoreis from an overview photo of a meal. We trained a supervised machine learning model that can perform detection from unseen images quickly and conveniently, then propose bounding boxes for food seen in the image, finally classify food categories from the input image of a meal.
 

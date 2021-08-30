@@ -23,7 +23,7 @@ My **research interest** lies in:
 
 Risk-analysis and stochastic optimal control. Algorithms that enable control systems to make smarterdecisions efficiently where safety cost is maximized. Machine Learning for Robotics and Control. Ma-chine learning models that enable robots to operate at higher accuracy. Human Computer Interaction. Algorithms/Tools/Models that enable a seamless interaction between human and computers.
 
-
+Here is my [full CV](assests/pdf/CV.pdf){:target="\_blank"}.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
