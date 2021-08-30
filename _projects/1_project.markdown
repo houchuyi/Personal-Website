@@ -55,3 +55,5 @@ I was the circuit&sensor memember in my team, hence I am responsible for all the
 <div class="caption">
     Evolution of our robot (Initial look on the left, and the final look on the right).
 </div>
+
+We like the intermidate design very much, however due to the project task, the omni-directional wheels can hardly allow the machine to travel sideway moving on a straight line, we had to resign our robot. Hence, the omni-directional wires are rotated 90 degrees in the final design.
