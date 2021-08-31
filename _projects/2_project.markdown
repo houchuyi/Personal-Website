@@ -4,11 +4,12 @@ title: Deep Learning Food Recognition Model
 description: Artificial Intelligence Fundamentals Course Project 2019
 img: /assets/img/APS360/5.PNG
 importance: 2
-category: work
+category: school
 ---
 
 University of Toronto
 APS360: Artificial Intelligence Fundamentals Course Project 2019
+[Instructor: Prof. Lisa Zhang](http://www.lisazhang.ca/){:target="\_blank"} 
 
 [Github repo](https://github.com/thomas-enxuli/Deep-Learning-Food-Detection-Model){:target="\_blank"} 
 

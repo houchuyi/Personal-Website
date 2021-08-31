@@ -4,9 +4,10 @@ title: Fully Autonomous Ball Dispensing Mobile Machine
 description: Engineering Science Featured Engineering Design Course Project 2019
 img: /assets/img/AER201/7.jpg
 importance: 1
-category: work
+category: school
 ---
 
+[Instructor: Prof. M.R.Emami](https://www.utias.utoronto.ca/research-and-centres/aerospace-mechatronics/){:target="\_blank"} 
 
 This was a project from a course in the Engineering Science program at the University of Toronto. 
 AER201: Engineering Design (now is ESC204: Praxis III) at University of Toronto.
