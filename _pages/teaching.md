@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught.
+description: Materials for courses I taught.
 nav: true
 ---
 <!-- 
@@ -15,5 +15,4 @@ Organize your courses by years, topics, or universities, however you like! -->
 | Year |             Course            |    My role    |      Institution      |             Note             |
 |:----:|:-----------------------------:|:-------------:|:---------------------:|:----------------------------:|
 | 2021 | ECE557: Linear Control Theory | Course Mentor | University of Toronto | Instructor: Margaret Chapman |
-|      |                               |               |                       |                              |
-|      |                               |               |                       |                              |
+{:.mbtablestyle}

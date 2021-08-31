@@ -484,6 +484,15 @@ footer.sticky-bottom {
   }
 }
 
+// teaching
+.mbtablestyle {
+  border-collapse: collapse;
+
+> table, td, th {
+  border: 1px solid black;
+  }
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
