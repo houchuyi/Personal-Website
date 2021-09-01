@@ -15,7 +15,7 @@ ROB501: Computer Vision for Robotics course project 2020
 
 [Github repo](https://github.com/houchuyi/Producing-360-Degree-Panoramas-Using-the-CPET-Dataset){:target="\_blank"} 
 
-[Project Final Report](assets/pdf/rob501_fall_2020_final_project_report.pdf){:target="\_blank"} 
+[Project Final Report](../assets/pdf/rob501_fall_2020_final_project_report.pdf){:target="\_blank"} 
 
 <!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
