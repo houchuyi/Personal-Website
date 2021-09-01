@@ -8,6 +8,7 @@ category: school
 ---
 
 University of Toronto
+
 CSC343: Introduction to Database course project 2020
 
 [Instructor: Prof. Diane Horton](http://www.cs.toronto.edu/~dianeh/){:target="\_blank"} 

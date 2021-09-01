@@ -10,6 +10,7 @@ category: school
 [Instructor: Prof. M.R.Emami](https://www.utias.utoronto.ca/research-and-centres/aerospace-mechatronics/){:target="\_blank"} 
 
 This was a project from a course in the Engineering Science program at the University of Toronto. 
+
 AER201: Engineering Design (now is ESC204: Praxis III) at University of Toronto.
 
 This project was devided into three components: electromechanical, circuit&sensor, microcontroller. Three students formed a team and each is responsible for one component. The design concept was developed by everyone in the team.
