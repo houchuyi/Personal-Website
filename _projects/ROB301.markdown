@@ -5,7 +5,7 @@ description: Introduction to Robotics Course Project 2019
 img: /assets/img/ROB301/1.PNG
 # redirect: https://unsplash.com
 importance: 3
-category: school
+category: University
 ---
 
 University of Toronto

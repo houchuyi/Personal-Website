@@ -4,7 +4,7 @@ title: Deep Learning Food Recognition Model
 description: Artificial Intelligence Fundamentals Course Project 2019
 img: /assets/img/APS360/5.PNG
 importance: 2
-category: school
+category: University
 ---
 
 University of Toronto

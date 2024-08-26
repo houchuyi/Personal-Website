@@ -4,7 +4,7 @@ title: YouTube Trending Video Database Analysis
 description: Introduction to Database Course Project 2020
 img: assets/img/CSC343/1.PNG
 importance: 3
-category: school
+category: University
 ---
 
 University of Toronto
